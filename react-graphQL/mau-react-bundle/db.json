@@ -1,0 +1,24 @@
+{
+    "notes": [
+      {
+        "important": true,
+        "content": "Add backend urls in the webpack.config.js file.",
+        "id": "5a3b8481bb01f9cb00ccb4a9"
+      },
+      {
+        "important": false,
+        "content": "TailwindCss enabled from the get go.",
+        "id": "5a3b920a6ry1e8c8d3f484bdd0"
+      },
+      {
+        "important": false,
+        "content": "Axios enabled from the get go.",
+        "id": "5a3b920aasa61e8c8d3f484bdd0"
+      },
+      {
+        "important": false,
+        "content": "Custom hooks index added.",
+        "id": "5a3b920aa6ghth1e8c8d3f484bdd0"
+      }
+    ]
+  }

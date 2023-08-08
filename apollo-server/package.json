@@ -1,0 +1,16 @@
+{
+  "name": "apollo-server",
+  "version": "1.0.0",
+  "description": "a test for apollo-server and graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mau Light",
+  "license": "MIT",
+  "dependencies": {
+    "@apollo/server": "^4.9.0",
+    "graphql": "^16.7.1",
+    "uuid": "^9.0.0"
+  }
+}
